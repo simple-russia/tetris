@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background-color: #282828;
+    color: #FFF;
+}
+
+.game {
+    width: 200px;
+    height: 400px;
+    background-color: #374340;
+    margin-left: 40px;
+}
+
+.engine {
+    width: 100%;
+    height: 100%;
+    image-rendering: pixelated;
+}
